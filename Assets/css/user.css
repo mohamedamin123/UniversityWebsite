@@ -1,0 +1,153 @@
+
+body {
+    background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 15%, #cce9e5 100%);
+
+}
+
+.content{
+    width:1200px;
+    margin: auto;
+    color: #fff;
+    height: auto;
+    position: relative;}
+    
+    
+    .content h1{
+      font-family:
+      'Times New Roman', Times, serif;
+      font-size: 50px;
+      padding-left: 20px;
+      margin-top: 8%;
+      margin-left: 400px;
+      letter-spacing: 2px;
+        margin-bottom: 40px;
+    }
+
+    .content ._block{
+      margin-bottom: 0;
+    }
+
+    .content h2 {
+      font-family:'Times New Roman', Times, serif;
+      font-size: 15px;
+      padding-left: 20px;
+      margin-left: 415px;
+      letter-spacing: 2px;
+        margin-bottom: 40px;
+    }
+
+
+    .content h3 {
+      font-size: 15px;
+      margin-top: 5px;
+        font-family:'Times New Roman', Times, serif;
+        padding-left: 20px;
+        margin-left: 415px;
+        letter-spacing: 2px;
+          margin-bottom: 40px;
+      }
+    
+    
+    
+    .content span{
+        color:
+        rgb(252, 238, 240);
+        font-size: 25px;
+        /* margin-left: -100px; */
+    }
+    .content h4{
+        margin-top: -70px;
+        margin-left: 600px;
+        color: white;
+        font-size: 23px;
+    }
+    .content img{
+        padding-left: 450px;
+        color: #fff;
+    }
+    
+    .header_div{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 70px;
+      }
+
+      .seperated_div {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      }
+      
+      .seperated_div div {
+        width: 50%;
+      }
+
+      .buttons_div {
+        display:flex;
+        justify-content: right;
+        margin-right: 70px;
+        align-items: center;
+      }
+
+      .buttons_div > * {
+        margin-left: 20px
+      }
+    .website_title{
+      font-family: "Segoe UI",Arial,sans-serif;
+      color: white;  
+    }
+    
+    
+    .go_back a {
+      color: rgb(237 230 140);
+      font-weight: bold;
+    }
+
+    .deconnection.absolute {
+        margin-top: -50px;
+        margin-left:1300px;
+    }
+    .deconnection a {
+      color: white;
+      
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+    .logo img{
+        /* margin-top: -10px; */
+        padding:1%;
+        width: 70px;
+    }
+    
+
+    .slide-item {
+        display:flex;
+        flex-direction: column;
+    }
+
+    .slide-item > div{
+        height:120px;
+        margin-bottom:20px
+    }
+
+    .slide-item > div > img{
+        width:120px;
+        height:120px;
+    }
+
+
+    ._green_text {
+      font-weight: bold;
+      margin: 0 auto 20px;
+      color:green;
+    }
+
+
+    .print_page a {
+      cursor: pointer;
+  }

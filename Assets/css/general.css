@@ -1,0 +1,38 @@
+/* general*/
+body{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 15%, #cce9e5 100%);
+    
+}
+
+.website_title{
+    font-family: "Segoe UI",Arial,sans-serif;
+    color: white;  
+  }
+
+/*logo and name*/
+#nom_uni{
+    position: absolute;
+
+    left: 7%;
+    top: 2.5%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 10px;
+/* or 36% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#logo{
+    position: absolute;
+    left: 1%;
+    top: 1%;
+}

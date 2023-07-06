@@ -1,0 +1,131 @@
+#container{
+    margin: 40px auto 30px;
+    display: flex;
+    /* margin-bottom: 20px; */
+    /* margin-top: 10px; */
+    /* position: absolute; */
+    width: 450px;
+    height: fit-content;
+    /* left: 35%; */
+    /* top: 1%; */
+    background: #FFFFFF;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    align-content: center;
+}
+
+#f{
+    /* height: 1000px; */
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+._form{
+    font-family: 'Futura Hv BT';
+    font-style: normal;
+    font-weight: 400;
+    color: #B1740F;
+    font-size: 22px;
+    line-height: 10px;
+    margin-top: 20px;
+    display:block;
+}
+
+.lab_form {
+    display: inline-block;
+}
+
+.lab_in_txt{
+    display: block;
+    width: 290px;
+    margin-top: 20px;
+    border-top: 0px;
+    border-left:0px ;
+    border-right:0px ;
+}
+
+.drop_form{
+    width: 128px;
+    height: 35px;
+    margin-top: 20px;
+    border: 3px solid #B1740F;
+    margin-bottom: 10px;
+}
+
+#lab_in_date{
+    background: #FFFFFF;
+    border: 3px solid #B1740F;
+    border-radius: 45px;
+    width: 191px;
+    height: 28.69px;
+    margin-top: 20px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+#Confirmer{
+    font-family: 'Futura Hv BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 10px;
+/* identical to box height, or 59% */
+    /* display: flex; */
+    /* align-items: center; */
+    color: #FFFFFF;
+    background: #FDB833;
+    border: 3px solid #101D42;
+    border-radius: 45px;
+    height: 45px;
+    width: 190px;
+    /* padding-left: 30px; */
+    margin: 15px 0 7px 60px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#Confirmer:disabled {
+    color: #FFFFFF;
+    background: #f1d08f;
+    cursor:auto;
+    border-color:rgb(154, 154, 154);
+}
+
+#form_img{
+    position: absolute;
+width: 308px;
+height: 537.19px;
+left: 120px;
+bottom: 0px;
+}
+
+.terms_conditions {
+    line-height:50px
+}
+.hide {
+    display:none
+}
+
+._error {
+    display: block;
+    color: red;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+._email_error {
+    display: inline-block;
+}
+
+.go_back_btn > p {
+    margin: 5px 60px;
+    text-align: center;
+    width: 190px;
+    color: #91917b;
+}
+
+.go_back_btn {
+    text-decoration: none;
+}
