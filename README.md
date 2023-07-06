@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # TODO
 
@@ -220,3 +221,7 @@ http://isetso.local/
 
 If you followed the steps listed above but it didn't work, please immediately DM me.
 
+=======
+# UniversityWebsite
+a project made by 6 people, for educational purposes.
+>>>>>>> 7542de3ad439f50b54e0f7cc8281582372635d2e
